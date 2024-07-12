@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Simon HW</title>
-    <link>https://username.github.io/posts/</link>
+    <link>https://no1ofinterest.github.io/posts/</link>
     <description>Recent content in Posts on Simon HW</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>hathoutwillard@gmail.com (Simon Hathout Willard)</managingEditor>
     <webMaster>hathoutwillard@gmail.com (Simon Hathout Willard)</webMaster>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://username.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://no1ofinterest.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
