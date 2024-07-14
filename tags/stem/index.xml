@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Simon HW</title>
-    <link>https://no1ofinterest.github.io/</link>
-    <description>Recent content on Simon HW</description>
+    <title>STEM on Simon HW</title>
+    <link>https://no1ofinterest.github.io/tags/stem/</link>
+    <description>Recent content in STEM on Simon HW</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>hathoutwillard@domain.com (Simon Hathout Willard)</managingEditor>
     <webMaster>hathoutwillard@domain.com (Simon Hathout Willard)</webMaster>
     <lastBuildDate>Sat, 13 Jul 2024 22:06:38 -0500</lastBuildDate>
-    <atom:link href="https://no1ofinterest.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://no1ofinterest.github.io/tags/stem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Very Own Blog</title>
       <link>https://no1ofinterest.github.io/post/my-very-own-blog/</link>

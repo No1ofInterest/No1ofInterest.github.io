@@ -2,14 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://no1ofinterest.github.io/posts/</loc>
-    <lastmod>2024-07-11T23:05:27-05:00</lastmod>
-  </url><url>
     <loc>https://no1ofinterest.github.io/</loc>
-    <lastmod>2024-07-11T23:05:27-05:00</lastmod>
+    <lastmod>2024-07-13T22:06:38-05:00</lastmod>
   </url><url>
-    <loc>https://no1ofinterest.github.io/categories/</loc>
+    <loc>https://no1ofinterest.github.io/tags/meta/</loc>
+    <lastmod>2024-07-13T22:06:38-05:00</lastmod>
+  </url><url>
+    <loc>https://no1ofinterest.github.io/post/my-very-own-blog/</loc>
+    <lastmod>2024-07-13T22:06:38-05:00</lastmod>
+  </url><url>
+    <loc>https://no1ofinterest.github.io/post/</loc>
+    <lastmod>2024-07-13T22:06:38-05:00</lastmod>
+  </url><url>
+    <loc>https://no1ofinterest.github.io/tags/stem/</loc>
+    <lastmod>2024-07-13T22:06:38-05:00</lastmod>
   </url><url>
     <loc>https://no1ofinterest.github.io/tags/</loc>
+    <lastmod>2024-07-13T22:06:38-05:00</lastmod>
+  </url><url>
+    <loc>https://no1ofinterest.github.io/categories/</loc>
   </url>
 </urlset>
