@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Simon HW</title>
-    <link>https://no1ofinterest.github.io/categories/</link>
-    <description>Recent content in Categories on Simon HW</description>
+    <title>Categories on Simon H.W.</title>
+    <link>https://hathoutwillard.github.io/categories/</link>
+    <description>Recent content in Categories on Simon H.W.</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>hathoutwillard@domain.com (Simon Hathout Willard)</managingEditor>
     <webMaster>hathoutwillard@domain.com (Simon Hathout Willard)</webMaster>
-    <atom:link href="https://no1ofinterest.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hathoutwillard.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
