@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>STEM on Simon H.W.</title>
-    <link>https://hathoutwillard.github.io/tags/stem/</link>
-    <description>Recent content in STEM on Simon H.W.</description>
+    <title>Posts on Simon H.W.</title>
+    <link>https://hathoutwillard.github.io/posts/</link>
+    <description>Recent content in Posts on Simon H.W.</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>hathoutwillard@domain.com (Simon Hathout Willard)</managingEditor>
     <webMaster>hathoutwillard@domain.com (Simon Hathout Willard)</webMaster>
     <lastBuildDate>Mon, 26 Aug 2024 18:28:32 -0500</lastBuildDate>
-    <atom:link href="https://hathoutwillard.github.io/tags/stem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hathoutwillard.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Other Laser Cutting Projects</title>
       <link>https://hathoutwillard.github.io/posts/otherlaserstuff/</link>
@@ -30,6 +30,13 @@
       <pubDate>Thu, 25 Jul 2024 00:37:38 -0500</pubDate><author>hathoutwillard@domain.com (Simon Hathout Willard)</author>
       <guid>https://hathoutwillard.github.io/posts/xstitchstand/</guid>
       <description>For the past few years, I&amp;rsquo;ve been cross stitching as a way to relax. I like how I can follow a pattern someone else created, listen to some music, and eventually end up with a beautiful piece of art to display. Below are a few of the pieces that I’ve made. Patterns are from DMC, as well as this book.&#xA;However, I’ve found my hand gets tired after holding the hoop for a long period of time.</description>
+    </item>
+    <item>
+      <title>1000 is a large number  </title>
+      <link>https://hathoutwillard.github.io/posts/1000pi/</link>
+      <pubDate>Thu, 18 Jul 2024 00:25:02 -0500</pubDate><author>hathoutwillard@domain.com (Simon Hathout Willard)</author>
+      <guid>https://hathoutwillard.github.io/posts/1000pi/</guid>
+      <description>Today, thorough the Winnipeg Fringe Festival’s “NextGen Fringers” program, I had the opportunity to see two shows. The first one, and the subject of this post, was 1000 pieces of π. This interpretive dance piece includes only 10 moves, corresponding to each digit from 0-9. For each digit, the corresponding move is preformed.&#xA;My first reaction upon hearing this premise was “there’s no way they can make this interesting”. However, by adding in props, and keeping a rotation of dancers entering and exiting the scene, they managed to keep the 50-minute runtime interesting.</description>
     </item>
     <item>
       <title>My Very Own Blog</title>

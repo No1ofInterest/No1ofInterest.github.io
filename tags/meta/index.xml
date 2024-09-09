@@ -12,9 +12,9 @@
     <atom:link href="https://hathoutwillard.github.io/tags/meta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Very Own Blog</title>
-      <link>https://hathoutwillard.github.io/post/my-very-own-blog/</link>
+      <link>https://hathoutwillard.github.io/posts/my-very-own-blog/</link>
       <pubDate>Sat, 13 Jul 2024 22:06:38 -0500</pubDate><author>hathoutwillard@domain.com (Simon Hathout Willard)</author>
-      <guid>https://hathoutwillard.github.io/post/my-very-own-blog/</guid>
+      <guid>https://hathoutwillard.github.io/posts/my-very-own-blog/</guid>
       <description>Hello!&#xA;I&amp;rsquo;ve been meaning to set up a blog for a while, to give me a nice, and convenient, way to chronicle all my different experiences. I originally tried making my own site from scratch using NeoCities to host it, as I’m a big fan of the old web aesthetics. Unfortunately, I quickly hit a wall with my HTML/CSS abilities, and although I learned a lot building it, getting my site to a presentable level would have taken dozens of hours that I simply don’t have.</description>
     </item>
   </channel>
