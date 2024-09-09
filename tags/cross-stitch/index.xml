@@ -8,8 +8,15 @@
     <language>en</language>
     <managingEditor>hathoutwillard@domain.com (Simon Hathout Willard)</managingEditor>
     <webMaster>hathoutwillard@domain.com (Simon Hathout Willard)</webMaster>
-    <lastBuildDate>Thu, 25 Jul 2024 00:37:38 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 14:14:37 -0500</lastBuildDate>
     <atom:link href="https://hathoutwillard.github.io/tags/cross-stitch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making Picture Frames From Scratch</title>
+      <link>https://hathoutwillard.github.io/posts/diyframe/</link>
+      <pubDate>Sun, 08 Sep 2024 14:14:37 -0500</pubDate><author>hathoutwillard@domain.com (Simon Hathout Willard)</author>
+      <guid>https://hathoutwillard.github.io/posts/diyframe/</guid>
+      <description>To learn more about the woodworking process, I made some picture frames to hang my cross-stitching pieces in. I primarily used elm for this project, as I was able to find some salvageable boards in the scrap bin, and also get some from a previous employer.&#xA;Although picture frames seem simple, there are still a number of techniques one can use to produce one. And, because the piece is intended to be decorative, any small mistakes will be obvious.</description>
+    </item>
     <item>
       <title>DIY Cross Stitch Stand</title>
       <link>https://hathoutwillard.github.io/posts/xstitchstand/</link>
